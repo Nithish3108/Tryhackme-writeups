@@ -8,9 +8,9 @@ A collection of detailed writeups covering key vulnerability categories from the
 
 | # | Writeup | Description |
 |---|---------|-------------|
-| 1 | [Application Design Flaws](<./OWASP_Top10_2025(Application Design Flaws).pdf>) | Insecure architecture patterns, flawed business logic, and design-level vulnerabilities |
-| 2 | [IAAA Failures](<./OWASP_Top10_2025(IAAA Failures).pdf>) | Weaknesses in **I**dentification, **A**uthentication, **A**uthorization & **A**ccountability |
-| 3 | [Insecure Data Handling](<./OWASP_Top10_2025(Insecure Data Handling).pdf>) | Improper data storage, transmission, processing & exposure risks |
+| 1 | [Application Design Flaws](OWASP_Top10_2025(Application Design Flaws).pdf) | Insecure architecture patterns, flawed business logic, and design-level vulnerabilities |
+| 2 | [IAAA Failures](OWASP_Top10_2025(IAAA Failures).pdf) | Weaknesses in **I**dentification, **A**uthentication, **A**uthorization & **A**ccountability |
+| 3 | [Insecure Data Handling](OWASP_Top10_2025(Insecure Data Handling).pdf) | Improper data storage, transmission, processing & exposure risks |
 
 ---
 
